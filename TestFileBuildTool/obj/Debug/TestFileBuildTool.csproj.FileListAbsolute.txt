@@ -1,0 +1,9 @@
+c:\users\boss\documents\visual studio 2015\Projects\TestFileBuildTool\TestFileBuildTool\bin\Debug\TestFileBuildTool.exe.config
+c:\users\boss\documents\visual studio 2015\Projects\TestFileBuildTool\TestFileBuildTool\obj\Debug\TestFileBuildTool.csprojResolveAssemblyReference.cache
+c:\users\boss\documents\visual studio 2015\Projects\TestFileBuildTool\TestFileBuildTool\obj\Debug\TestFileBuildTool.Properties.Resources.resources
+c:\users\boss\documents\visual studio 2015\Projects\TestFileBuildTool\TestFileBuildTool\obj\Debug\TestFileBuildTool.csproj.GenerateResource.Cache
+c:\users\boss\documents\visual studio 2015\Projects\TestFileBuildTool\TestFileBuildTool\bin\Debug\TestFileBuildTool.exe
+c:\users\boss\documents\visual studio 2015\Projects\TestFileBuildTool\TestFileBuildTool\bin\Debug\TestFileBuildTool.pdb
+c:\users\boss\documents\visual studio 2015\Projects\TestFileBuildTool\TestFileBuildTool\obj\Debug\TestFileBuildTool.exe
+c:\users\boss\documents\visual studio 2015\Projects\TestFileBuildTool\TestFileBuildTool\obj\Debug\TestFileBuildTool.pdb
+C:\Users\Boss\documents\visual studio 2015\Projects\TestFileBuildTool\TestFileBuildTool\obj\Debug\TestFileBuildTool.Form1.resources
